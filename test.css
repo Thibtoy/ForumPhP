@@ -64,6 +64,7 @@ transition: transform .2s;
 height: 70%;
 width: 100%;
 border: 1px ridge black;
+overflow-y: scroll;
 }
 
 .commentaires {
